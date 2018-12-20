@@ -1,0 +1,11 @@
+body {
+	background-color: #4EB5ED;
+}
+
+.content {
+	display: flex;
+}
+
+.construction-image {
+	margin: 0 auto;
+}
