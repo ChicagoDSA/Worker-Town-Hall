@@ -77,6 +77,8 @@ svg {
 .sign {
 	height: 500px;
 	margin: 0 auto;
+	width: 100%;
+	max-width: 400px;
 }
 
 .credits {
@@ -86,7 +88,7 @@ svg {
 
 .links {
 	margin: 0 auto;
-	width: 700px;
+	max-width: 700px;
 	height: 100px;
 	background-color: red;
 	margin-bottom: -1px;
